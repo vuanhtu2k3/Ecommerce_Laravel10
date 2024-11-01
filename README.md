@@ -1,67 +1,30 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/948e93b4-e0c2-42b9-85c8-3f9d3b66c197)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/764c0253-b5de-45ea-82fc-e7261fc87984)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/8829618a-a351-485c-bc03-e5c0f85cd9e4)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/15af035b-4a91-4c5d-9ae2-9af18e0cd266)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/a65b3bcc-9609-4e6f-af0e-159f76196b5e)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/869d450c-5f5e-4679-9eed-d0f7efef232f)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/dcc90ff8-ca09-4fd1-a5b2-77ca56dae827)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/e714231d-a350-4272-83c7-e74870dd8cf8)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/14bfdb9d-8391-47c5-91a0-8ae1d248b7f8)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/d27d2ef0-b4da-4087-88e0-4643373c6550)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/017cf34f-8a14-4d00-ab17-231b1a96893d)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/060ca42d-f71f-460c-a35d-07a027699b55)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+                                                  Giao diện Admin
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/cd154c79-3dc6-4993-8b41-ad5d63f93f26)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/309edb81-14cd-4d3f-af16-e2f660ca0cb4)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/b7df9cd4-1df0-41e8-80ad-843bec54bf21)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/11a9fc84-7718-4ef6-990f-25d56758351e)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/220147ae-7337-4bf4-aaea-f0730056d729)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/bf622300-85e8-4b4d-a971-5e371dabe601)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/404721c4-98c2-423c-a72e-c40f40800362)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/f421e6e1-f7cd-45dd-b9f9-9830e546a39e)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/80e77202-1c6b-4ad7-b767-e6e3aabd00d7)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/da68284b-1e80-4952-918d-8be122543430)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/dcb73294-cba0-4b49-bb11-1b51a2e5096b)
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/001b690c-466f-4ab5-8340-296c6bb78e9d)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# EcomerceWebsite_Laravel
+Đế xem chi tiết hơn, mọi người có thể xem video Demo: https://youtu.be/Qwc052n6z8w
