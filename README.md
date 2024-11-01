@@ -9,11 +9,14 @@
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/14bfdb9d-8391-47c5-91a0-8ae1d248b7f8)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/d27d2ef0-b4da-4087-88e0-4643373c6550)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/017cf34f-8a14-4d00-ab17-231b1a96893d)
+![image](https://github.com/user-attachments/assets/69a96ff5-0dbf-4eb3-9088-aec9ca0e7c17)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/060ca42d-f71f-460c-a35d-07a027699b55)
 
 
                                                   Giao diện Admin
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/cd154c79-3dc6-4993-8b41-ad5d63f93f26)
+![image](https://github.com/user-attachments/assets/30134f09-c2e8-4bf0-8306-a2f06bf00890)
+![image](https://github.com/user-attachments/assets/0d42b42c-e4e5-4283-8cf5-0b65d38a98e9)
+![image](https://github.com/user-attachments/assets/a28728bb-17d7-4464-91ce-f210a83bdfc6)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/309edb81-14cd-4d3f-af16-e2f660ca0cb4)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/b7df9cd4-1df0-41e8-80ad-843bec54bf21)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/11a9fc84-7718-4ef6-990f-25d56758351e)
