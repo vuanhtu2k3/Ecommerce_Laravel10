@@ -1,4 +1,4 @@
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/948e93b4-e0c2-42b9-85c8-3f9d3b66c197)
+![image](https://github.com/user-attachments/assets/e6093085-45c9-4ab0-8ed8-c24693854ab8)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/764c0253-b5de-45ea-82fc-e7261fc87984)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/8829618a-a351-485c-bc03-e5c0f85cd9e4)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/15af035b-4a91-4c5d-9ae2-9af18e0cd266)
