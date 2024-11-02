@@ -19,17 +19,25 @@
 ![image](https://github.com/user-attachments/assets/30134f09-c2e8-4bf0-8306-a2f06bf00890)
 ![image](https://github.com/user-attachments/assets/0d42b42c-e4e5-4283-8cf5-0b65d38a98e9)
 ![image](https://github.com/user-attachments/assets/a28728bb-17d7-4464-91ce-f210a83bdfc6)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/309edb81-14cd-4d3f-af16-e2f660ca0cb4)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/b7df9cd4-1df0-41e8-80ad-843bec54bf21)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/11a9fc84-7718-4ef6-990f-25d56758351e)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/220147ae-7337-4bf4-aaea-f0730056d729)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/bf622300-85e8-4b4d-a971-5e371dabe601)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/404721c4-98c2-423c-a72e-c40f40800362)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/f421e6e1-f7cd-45dd-b9f9-9830e546a39e)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/80e77202-1c6b-4ad7-b767-e6e3aabd00d7)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/da68284b-1e80-4952-918d-8be122543430)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/dcb73294-cba0-4b49-bb11-1b51a2e5096b)
-![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/001b690c-466f-4ab5-8340-296c6bb78e9d)
+![image](https://github.com/user-attachments/assets/7872efb2-0793-430b-911f-a7c38ef6a4f0)
+![image](https://github.com/user-attachments/assets/8fb0d30f-ce9f-44a2-a7a7-1b60e476065b)
+![image](https://github.com/user-attachments/assets/4269daec-8d13-4aac-9601-2fe100bc5794)
+![image](https://github.com/user-attachments/assets/32eb62b0-7906-4daf-a5b1-54c53bf1a151)
+![image](https://github.com/user-attachments/assets/e71652a6-6cb6-4334-ace4-7ea3a2087158)
+![image](https://github.com/user-attachments/assets/dcce8834-1a28-4545-b5cf-464a8bb60815)
+![image](https://github.com/user-attachments/assets/28f1a782-41a3-41e6-883a-9def09d27433)
+![image](https://github.com/user-attachments/assets/57def9c3-53dd-442a-8071-f37f885d7b6b)
+![image](https://github.com/user-attachments/assets/830cef04-99db-4146-9260-009a12f9c626)
+![image](https://github.com/user-attachments/assets/7c373392-3585-444e-b85d-ea737ab7a020)
+![image](https://github.com/user-attachments/assets/e96562c3-3c3c-4cf9-846f-fe49bd72cca3)
+
+
+
+
+
+
+
+
 
 
 Đế xem chi tiết hơn, mọi người có thể xem video Demo: https://youtu.be/Qwc052n6z8w
